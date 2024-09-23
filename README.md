@@ -4,7 +4,7 @@ Hi 👋 My name is Surya Mani verma
 Front-end Developer 
 ------------------------  
 
-I'm a fourth year CSIT(IET) student and a front-end developer.
+"I recently graduated with a B.E. in Computer Science and Engineering (CSE) and am exploring opportunities as a frontend developer."
    
 * 🌍  I'm based in *India*.
 * ✉️  You can contact me at [suryaiet24@gmail.com](mailto:suryaiet24@gmail.com)
