@@ -1,52 +1,53 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Surya Mani Verma</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Frontend Developer | Fullstack Enthusiast | Tech Explorer 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.E. in Computer Science & Engineering (CSE) | IET Khandari, Agra
-- 🛠️ Passionate about building beautiful and responsive web apps
-- 🚀 Exploring **Next.js**, **TypeScript**, and **Framer Motion**
-- 🛍️ Working on **Taj Marble**, **Mail Clone**, and **Spotify Clone**
-- 🎯 Goal: To become a Fullstack Developer
+- 🎓 B.E. in Computer Science & Engineering | IET Khandari, Agra
+- 🛠️ Passionate about Web Development and UI/UX Design
+- 🚀 Currently mastering **Next.js**, **TypeScript**, **Node.js**, and **MongoDB**
+- 🏗️ Building real-world projects like **Taj Marble** and **Mail Clone**
+- 🎯 Goal: To become a Creative Fullstack Developer!
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Fullstack Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
+<div align="center">
+
+<!-- Rotating logos -->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,prisma,postgresql,redux,figma,git,github,vercel" width="100%" style="animation: rotation 20s infinite linear;" />
 </p>
+
+<!-- Animate with CSS -->
+<style>
+@keyframes rotation {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
+</style>
+
+</div>
 
 ---
 
 ## 🌟 Featured Projects
 
-- 🛍️ [**Taj Marble**](https://github.com/yourusername/taj-marble) – E-commerce Website
-- 📧 [**Mail Clone**](https://github.com/yourusername/mail-clone) – Email UI App
-- 🎵 [**Spotify Clone**](https://github.com/yourusername/spotify-clone) – Music Streaming Frontend
-- ✈️ Travel App (Coming Soon 🚀)
+- 🛍️ [**Taj Marble**](https://github.com/yourusername/taj-marble) – E-commerce Website (Next.js + MongoDB)
+- 📧 [**Mail Clone**](https://github.com/yourusername/mail-clone) – Gmail-inspired UI App
+- 🎵 [**Spotify Clone**](https://github.com/yourusername/spotify-clone) – Music Streaming UI
+- ✈️ Fullstack Travel App (Coming Soon 🚀)
 
 ---
 
 # 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Surya Mani's GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Surya Mani's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /> |
+|:--------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
 
 ---
 
@@ -85,7 +86,6 @@
 
 ---
 
-> "Believe in consistency and growth — the sky is the starting point!" 🚀
+> "Consistency beats talent. Keep learning, keep shipping." 🚀
 
 ---
-
