@@ -1,48 +1,91 @@
-Hi 👋 My name is Surya Mani verma
-============================     
-                
-Front-end Developer 
-------------------------  
+<!-- README.md -->
 
-"I recently graduated with a B.E. in Computer Science and Engineering (CSE) and am exploring opportunities as a frontend developer."
-   
-* 🌍  I'm based in *India*.
-* ✉️  You can contact me at [suryaiet24@gmail.com](mailto:suryaiet24@gmail.com)
+<h1 align="center">Hi 👋, I'm Surya Mani Verma</h1>
+<h3 align="center">Frontend Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Surya+Mani+Verma.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
+---
 
-### Skills
+## 👨‍💻 About Me
+- 🎓 B.E. in Computer Science & Engineering (CSE) | IET Khandari, Agra
+- 🛠️ Passionate about building beautiful and responsive web apps
+- 🚀 Exploring **Next.js**, **TypeScript**, and **Framer Motion**
+- 🛍️ Working on **Taj Marble**, **Mail Clone**, and **Spotify Clone**
+- 🎯 Goal: To become a Fullstack Developer
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/suryamani25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/suryamani.in" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suryamani25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/surya.mani.25" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
---
+## 🌟 Featured Projects
 
-### Badges
+- 🛍️ [**Taj Marble**](https://github.com/yourusername/taj-marble) – E-commerce Website
+- 📧 [**Mail Clone**](https://github.com/yourusername/mail-clone) – Email UI App
+- 🎵 [**Spotify Clone**](https://github.com/yourusername/spotify-clone) – Music Streaming Frontend
+- ✈️ Travel App (Coming Soon 🚀)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/suryamani25"><img src="https://github-readme-stats.vercel.app/api?username=suryamani25&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vivekgupta4115's GitHub stats" /></a>
+# 📈 GitHub Stats
 
-<a href="http://www.github.com/suryamani25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suryamani25&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Surya Mani's GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/suryamani25"><img src="https://activity-graph.herokuapp.com/graph?username=suryamani25&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
+# 🔥 Contribution Graph
 
-![](https://komarev.com/ghpvc/?username=suryamani25)
+[![Surya Mani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)](https://github.com/yourusername)
 
+---
 
-### Snake eating my contribution graph...
-![snake gif](https://github.com/suryamani25/suryamani25/blob/output/github-contribution-grid-snake.gif)
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 🛠️ Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourlinkedin/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
+
+---
+
+> "Believe in consistency and growth — the sky is the starting point!" 🚀
+
+---
+
